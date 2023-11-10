@@ -1,16 +1,33 @@
-# fashion_new
+# Flutter Auth App
 
-A new Flutter project.
+Welcome to the Flutter Auth App repository! This Flutter project is a simple authentication app featuring a splash screen, sign-in page, and sign-up page. It provides a foundation for integrating user authentication into your Flutter applications.
+
+## Features
+
+- **Splash Screen:** Engaging introduction screen displayed on app launch.
+- **Sign-In Page:** Secure user authentication with email and password.
+- **Sign-Up Page:** User registration with email, password, and optional additional details.
+- **Clean UI Design:** Intuitive and aesthetically pleasing user interface.
+- **Easy Customization:** Customize the app with your branding and additional features.
+
+## Screenshots
+
+![Splash Screen](/Splash.png)
+![Sign-In Page](/Sign In.png)
+![Sign-Up Page](/Sign Up.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To integrate this authentication app into your Flutter project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository to your local machine.
+2. Copy the relevant files and code snippets into your existing Flutter project.
+3. Customize the authentication flow and UI as needed for your application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Launch the app to experience the engaging splash screen.
+2. Navigate to the sign-in page to log in with your credentials.
+3. Alternatively, visit the sign-up page to create a new user account.
+
+
