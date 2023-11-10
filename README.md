@@ -13,8 +13,8 @@ Welcome to the Flutter Auth App repository! This Flutter project is a simple aut
 ## Screenshots
 
 ![Splash Screen](/Splash.png)
-![Sign-In Page](/Sign In.png)
-![Sign-Up Page](/Sign Up.png)
+![Sign-In Page](SignIn.png)
+![Sign-Up Page](/SignUp.png)
 
 ## Getting Started
 
