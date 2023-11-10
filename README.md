@@ -11,9 +11,11 @@ Welcome to the Flutter Auth App repository! This Flutter project is a simple aut
 - **Easy Customization:** Customize the app with your branding and additional features.
 
 ## Screenshots
-
+### Splash Screen
 ![Splash Screen](/Splash.png)
+### Sign-In Page
 ![Sign-In Page](SignIn.png)
+### Sign-Up Page
 ![Sign-Up Page](/SignUp.png)
 
 ## Getting Started
